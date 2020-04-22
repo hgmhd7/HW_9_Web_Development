@@ -1,2 +1,3 @@
-# HW_9_Web_Development
-here I developed a portfolio web page that shows some of the projects e have done thus far in class.  Adding to this site later on as I gain more material to post.
+# LEGACY Portfolio
+
+The initial framework used in my LEGACY Portfolio for the hgmhd7.github.io repository.  The legacy portfoilio is deployed at [https://hgmhd7.github.io/index.html](https://hgmhd7.github.io/index.html).
